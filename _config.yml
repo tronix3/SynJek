@@ -8,7 +8,7 @@ logo:
   mobile_width: "32px"
   desktop: "images/logo/image.png"
   desktop_height: "64px"
-  desktop_width: "120px"
+  desktop_width: "134px"
 
 home: 
   limit_services: 6
